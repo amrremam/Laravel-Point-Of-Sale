@@ -1,4 +1,6 @@
-![ssu](https://github.com/amrremam/Laravel-Point-Of-Sale/assets/99700574/91ca3929-4a06-4d26-bd4c-b09f10f3930e)
+![pos](https://github.com/amrremam/Laravel-Point-Of-Sale/assets/99700574/02eb7459-c753-4de9-9a65-796771e7432b)
+
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 

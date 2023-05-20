@@ -1,4 +1,5 @@
 ![pos](https://github.com/amrremam/Laravel-Point-Of-Sale/assets/99700574/02eb7459-c753-4de9-9a65-796771e7432b)
+![ppo](https://github.com/amrremam/Laravel-Point-Of-Sale/assets/99700574/9715ad7d-cb12-4ea7-8eda-638a46672e49)
 
 
 
